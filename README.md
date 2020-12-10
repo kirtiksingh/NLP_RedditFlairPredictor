@@ -11,8 +11,7 @@ This is a mini web-app created with Flask that performs the task of predicting w
 ## Directory Structure 
  
 * Notebooks:  1. Collecting 'India' subreddit data.ipynb : Data collection notebook
-              2. Data Analysis.ipynb: Different Data Analysis Tasks and Model Development followed by Prediction
-              
+              2. Data Analysis.ipynb: Different Data Analysis Tasks and Model Development followed by Prediction              
 * requirements.txt: Containing the requirements need to run this project. 
 * app.py : Contains the flask app
 * inference.py : Inference Engine that runs the model and returns the predictions. 
@@ -31,6 +30,5 @@ This is a mini web-app created with Flask that performs the task of predicting w
 
 ## References
 
-https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
-https://github.com/prakharrathi25/reddit-flair-predictor/
-
+* https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
+* https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-on-heroku-part-1-574b69098d9a
